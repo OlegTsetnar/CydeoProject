@@ -1,10 +1,10 @@
-package com.cydeo;
+package com;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring07SpringMvcControllerApplicationTests {
+class Spring08SpringMvcModelApplicationTests {
 
     @Test
     void contextLoads() {

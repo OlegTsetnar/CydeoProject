@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-07-Spring-MVC-Controller" />
         <module name="CydeoProject" />
+        <module name="Spring-08-Spring-MVC-Model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-06-SprintBoot-Demo" options="-parameters" />
       <module name="Spring-07-Spring-MVC-Controller" options="-parameters" />
+      <module name="Spring-08-Spring-MVC-Model" options="-parameters" />
       <module name="Spring_06_SpringBoot" options="-parameters" />
     </option>
   </component>
