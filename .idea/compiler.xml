@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-07-Spring-MVC-Controller" />
+        <module name="Spring-09-Spring-Thymeleaf" />
         <module name="CydeoProject" />
         <module name="Spring-08-Spring-MVC-Model" />
         <module name="Sprint" />
@@ -23,6 +24,7 @@
       <module name="Spring-06-SprintBoot-Demo" options="-parameters" />
       <module name="Spring-07-Spring-MVC-Controller" options="-parameters" />
       <module name="Spring-08-Spring-MVC-Model" options="-parameters" />
+      <module name="Spring-09-Spring-Thymeleaf" options="-parameters" />
       <module name="Spring_06_SpringBoot" options="-parameters" />
       <module name="Sprint" options="-parameters" />
     </option>
